@@ -1,1 +1,1 @@
-include ApplicationHelper
+require 'spec_helper'
